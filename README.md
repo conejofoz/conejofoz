@@ -3,6 +3,8 @@
 ###
 
 <p align="left">Atualmente desenvolvendo em:<br>Django Rest Framework<br>Vue JS</p>
+<br>
+<p>Estudando: <br>NestJS<br>ReactJS<br>NextJS</p>
 
 ###
 
