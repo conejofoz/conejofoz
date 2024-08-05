@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">Atualmente desenvolvendo em:<br>Django Rest Framework<br>Vue JS</p>
-<br>
-<p>Estudando: <br>NestJS<br>ReactJS<br>NextJS</p>
+<p align="left">Desenvolvedor fullstack nas seguintes tecnologias:<br>API Rest com Django Rest Framework<br>Sistema frontend com Vue JS 2, 3 e Vuetify 3.<br><br>Atuo em todo o ciclo da aplicação até a implantação em VPS na nuvem.<br><br>Estudando:<br>- React<br>- Next<br>- Nest</p>
 
 ###
 
