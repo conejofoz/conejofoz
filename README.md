@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor fullstack nas seguintes tecnologias:<br>API Rest com Django Rest Framework<br>Sistema frontend com Vue JS 2, 3 e Vuetify 3.<br><br>Atuo em todo o ciclo da aplicação até a implantação em VPS na nuvem.<br><br>Estudando:<br>- React<br>- Next<br>- Nest</p>
+<p align="left">Desenvolvedor fullstack nas seguintes tecnologias:<br>API Rest com Django Rest Framework<br>Sistema frontend com Vue JS 2, 3 e Vuetify 3.<br>Atuo em todo o ciclo da aplicação até a implantação em VPS na nuvem.<br><br>Já desenvolvi e mantive sistema desktop com Delphi e Firebird na nuvem GCP.<br><br>Estudando:<br>- React<br>- Next<br>- Nest</p>
 
 ###
 
